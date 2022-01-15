@@ -13,41 +13,29 @@
       - 7-41
       - 77-40
 70000:
-  - question: sem_sorok
+  - question: tried_hard
     answers:
-      - sem_sorok
-      - Дали
-      - Малевич
-      - Айвазовский
-  - question: sem_sorok
+      - I tried so hard
+      - New divide
+      - Papercut
+      - Faithless
+  - question: voyage
     answers:
-      - sem_sorok
-      - 1888
-      - 1821
-      - 1842
+      - Voyage voyage
+      - Listen to you heart
+      - Cherry lady
+      - New devide
 500000:
-  - question: Руперт Гринт, один из актёров фильма "Гарри Поттер", страдает от этой фобии
+  - question: lubimka
     answers:
-      - Арахнофобия
-      - Агорафобия
-      - Клаустрофобия
-      - Офидиофобия
-  - question: Святослав Задерий известен тем, что основал группу...
-    answers:
-      - Алиса
-      - ДДТ
-      - Пикник
-      - Чёрный кофe
+      - Любимка
+      - Красивая
+      - Любовь
+      - Лучшая
 1000000:
-  - question: Именно его прозвали "рыцарь телеги"
+  - question: deep_romance
     answers:
-      - Ланселот
-      - Артур
-      - Гавейн
-      - Персиваль
-  - question: Отсюда Толкин позаимствовал множество имён своих персонажей
-    answers:
-      - Старшая Эдда
-      - Калевала
-      - Младшая Эдда
-      - Беовульф
+      - Deep romance
+      - Love
+      - Heart
+      - Soul

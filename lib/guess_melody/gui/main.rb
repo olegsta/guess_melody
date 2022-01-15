@@ -64,7 +64,7 @@ module GuessMelody
       def show_question(task)
         @message = Message.new "Вопрос #{@engine.current_step + 1} / " +
           "#{@engine.total_steps}. Сумма #{task.sum}"
-          song = Music.new("data/sound/#{task.question}.mp3")
+          song = Music.new("lib/data/sound/#{task.question}.mp3")
           song.volume = 50
           # Play the sound
           song.play
