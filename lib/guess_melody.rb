@@ -10,4 +10,4 @@ require_relative 'guess_melody/gui/answer_button'
 require_relative 'guess_melody/gui/main'
 require_relative 'guess_melody/game'
 
-GuessMelody::Game.new
+# GuessMelody::Game.new
