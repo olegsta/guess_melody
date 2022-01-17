@@ -21,7 +21,7 @@ module GuessMelody
 
       def draw
         C.background.draw(0, 0, 0)
-        @message.write
+        @message&.write
         @btns.map(&:draw)
       end
 
