@@ -14,10 +14,7 @@ https://www.ruby2d.com/learn/linux/
 
 Install it yourself as:
 
-$ gem install guess_melody
-
-For rubyd2 library
-https://www.ruby2d.com/learn/linux/
+$ `gem install guess_melody`
 
 ## Usage
 
