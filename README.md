@@ -21,9 +21,9 @@ https://www.ruby2d.com/learn/linux/
 
 ## Usage
 
-require "guess_melody"
+`require "guess_melody"`
 
-GuessMelody::Game.new
+`GuessMelody::Game.new`
 
 ## Development
 
