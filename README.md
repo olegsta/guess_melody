@@ -2,6 +2,8 @@
 
 It's game for playing guess melody.
 
+![Alt text](/images/game.jpeg)
+
 ## Installation
 
 install packages for installing gosu 
@@ -14,15 +16,14 @@ Install it yourself as:
 
 $ gem install guess_melody
 
-## Usage
+For rubyd2 library
+https://www.ruby2d.com/learn/linux/
 
-gem install "guess_melody"
+## Usage
 
 require "guess_melody"
 
 GuessMelody::Game.new
-
-![Alt text](/images/game.jpeg)
 
 ## Development
 
