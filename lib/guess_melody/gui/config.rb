@@ -7,7 +7,7 @@ module GuessMelody
       ANSWER_WIDTH = 400
       ANSWER_HEIGHT = 120
       FONT_FAMILY = :noto
-      BG_IMAGE = "lib/data/img/bg.png"
+      BG_IMAGE = File.expand_path('../../../data/img/bg.png', __FILE__)
     end
 
     class CReader
